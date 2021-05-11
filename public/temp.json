@@ -1,0 +1,39 @@
+{
+  "status": 200,
+  "message": "Sucessful",
+  "data": {
+    "_id": "604af950fffbcd170ad08688",
+    "eStatus": "Active",
+    "eLanguage": "english",
+    "eSport": "Cricket",
+    "nViewCounts": 106,
+    "bIsBanner": false,
+    "aCategories": [
+      "India",
+      "Social Tracker",
+      "Hemang Badani",
+      "INDIA vs ENGLAND 2021",
+      "Varun Chakravarthy"
+    ],
+    "eBy": "writer",
+    "sImage": "https://image.crictracker.com/wp-content/uploads/2020/10/Varun-Chakravarthy-3.jpg",
+    "eType": "Article",
+    "sLink": "https://www.crictracker.com/hemang-badani-not-pleased-with-varun-chakravarthy-after-the-spinner-fails-to-clear-fitness-tests-ahead-of-the-england-t20is/",
+    "sTitle": "Hemang Badani not pleased with Varun Chakravarthy after the spinner fails to clear fitness tests ahead of the England T20Is",
+    "oSource": {
+      "sName": "Crictracker",
+      "sLink": "https://www.crictracker.com"
+    },
+    "sShortDesc": "Earlier, a BCCI source also lashed out at the Tamil Nadu bowler over his fitness. ",
+    "sSlug": "hemang-badani-not-pleased-with-varun-chakravarthy-after-the-spinner-fails-to-clear-fitness-tests-ahead-of-the-england-t20is",
+    "sDescription": "\n<p>Hemang Badani, the former Indian cricketer, wasn’t happy with Varun Chakravarthy, who couldn’t make the cut for the T20I series against England after failing the fitness tests. This was the second instance when the <strong>Tamil Nadu</strong> spinner couldn’t play in a series after getting picked in the squad, the first time being in the tour of Australia back in November 2020.</p>\n<p>Chakravarthy couldn’t pass the yo-yo tests after which he had to be left out. Varun took decent strides in his cricket career after he performed to expectations for the Kolkata Knight Riders (KKR) in the 2020 edition of the Indian Premier League (IPL), which was played in the United Arab Emirates (UAE).</p>\n<h3><strong>Badani not happy with Varun Chakravarthy</strong></h3>\n<p>In the meantime, Badani also took to Twitter and wrote, &#8220;What was he doing the last 3-4 months when he wasn’t playing any cricket and nursing a shoulder injury. Understand a lot of ppl r upset with Varun not available for selection as he failed the fitness test. All players are aware of the test &amp; he shd av been ready.&#8221;</p>\n<blockquote class=\"twitter-tweet\" data-width=\"500\" data-dnt=\"true\">\n<p lang=\"en\" dir=\"ltr\">understand a lot of ppl r upset with Varun not available for selection as he failed  the fitness test but my question is what was he doing the last 3/4 mts when he wasn&#39;t playing any cricket and nursing a shoulder injury. All players are aware of the test &amp; he shd av been ready.</p>\n<p>&mdash; Hemang Badani (@hemangkbadani) <a href=\"https://twitter.com/hemangkbadani/status/1369562963070181383?ref_src=twsrc%5Etfw\">March 10, 2021</a></p></blockquote>\n<p><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<p>Earlier, a source in the Board of Control for Cricket in India (BCCI), on conditions of anonymity, questioned Chakravarthy’s fitness skills. Neither did the tweaker play a game in the Syed Mushtaq Ali Trophy, nor could he take part in the Vijay Hazare Trophy.</p>\n<p>&#8220;Varun Chakravarthy was selected because he recovered from his shoulder injury that ruled him out of the Australia series. He did his rehab at the NCA and started throwing normally. However, he has failed to clear the YoYo test mark stipulated for a 2km run at least twice,&#8221; the source stated.</p>\n<p>&#8220;We can understand he was doing his rehab during Mushtaq Ali (T20 Championship). But then again, he didn&#8217;t play a single Vijay Hazare Trophy game. How do you assess his match fitness based on games that he played five months back? I guess Varun Chakravarthy is a lesson for selectors,&#8221; the source added.</p>\n<p>The T20I series gets underway on March 12 with all the five games to take place at the Narendra Modi Stadium in <strong>Ahmedabad</strong>. India won the four-match Test series 3-1.</p>\n",
+    "dUpdatedAt": "2021-03-12T07:12:44.211Z",
+    "dCreatedAt": "2021-03-12T04:10:09.000Z",
+    "__v": 2,
+    "oCategory": {
+      "sSlug": "india-vs-england",
+      "sName": "India vs England"
+    },
+    "nCommentsCount": 0
+  }
+}
